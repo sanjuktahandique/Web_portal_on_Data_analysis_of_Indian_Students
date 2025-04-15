@@ -7,4 +7,4 @@ seaborn
 streamlit_option_menu
 visualizations_section
 beautifulsoup4
-
+requests
