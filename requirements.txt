@@ -2,9 +2,7 @@ streamlit
 pandas
 numpy
 matplotlib
-scipy
 seaborn
-streamlit_option_menu
-visualizations_section
-beautifulsoup4
+scipy
 requests
+beautifulsoup4
