@@ -31,7 +31,7 @@ def health_effects_section():
 
     df["EDU_ScreenTime_Category"] = df["Avg_screentime_for_educational_purpose"].map(category_mappin)
 
-    st.title("Contingency Table for Education ScreenTime and Negative Experiences")
+    st.header("Contingency Table for Education ScreenTime and Negative Experiences")
     st.write("""
     
     1. **Education ScreenTime Category**: Categories like High, Low, Moderate, Severe.
