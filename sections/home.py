@@ -20,7 +20,7 @@ df = load_data()
 def home_section():
     
     
-    st.image("C:/Users/sanju/Desktop/Analysis/Analysis.png",  use_column_width=True)
+    st.image("Analysis.png",  use_column_width=True)
     
     st.markdown("""
                 <img src="C:/Users/sanju/Desktop/Analysis/Analysis.png" alt=""/>
