@@ -5,3 +5,7 @@ matplotlib
 scipy
 seaborn
 streamlit_option_menu
+visualizations_section
+BeautifulSoup
+
+
