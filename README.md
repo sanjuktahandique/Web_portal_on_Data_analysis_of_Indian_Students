@@ -37,8 +37,3 @@ This project explores the impact of screen time on health, academic performance,
 - Highlighted the impact of prolonged usage on sleep patterns, attention span, and mental well-being
 - Proposed interventions for students, educators, and parents
 
-## 🚀 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/screentime-data-analysis.git
