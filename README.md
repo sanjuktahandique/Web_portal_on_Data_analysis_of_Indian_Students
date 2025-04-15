@@ -82,6 +82,5 @@ This project explores the impact of screen time on health, academic performance,
 
 ## 🚀 How to Use
 
-1. Clone the repository:
-   ```bash
-      https://fcniamfe3knvn2sl3qhsrj.streamlit.app/
+1. view the deployed repository:
+   https://fcniamfe3knvn2sl3qhsrj.streamlit.app/
