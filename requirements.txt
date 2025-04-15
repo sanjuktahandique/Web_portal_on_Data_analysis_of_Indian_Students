@@ -6,6 +6,5 @@ scipy
 seaborn
 streamlit_option_menu
 visualizations_section
-BeautifulSoup
-bs4
+beautifulsoup4
 
