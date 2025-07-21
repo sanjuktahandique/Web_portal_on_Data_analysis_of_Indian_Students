@@ -37,7 +37,7 @@ This project explores the impact of screen time on health, academic performance,
 - Highlighted the impact of prolonged usage on sleep patterns, attention span, and mental well-being
 - Proposed interventions for students, educators, and parents
 
-## 🚀 How to Use
+## 🚀 View
 
-1. view the deployed repository:
+View the deployed repository:
    https://fcniamfe3knvn2sl3qhsrj.streamlit.app/
