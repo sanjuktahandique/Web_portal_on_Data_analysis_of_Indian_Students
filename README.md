@@ -11,7 +11,7 @@ This project explores the impact of screen time on health, academic performance,
 
 - **Tools & Libraries**:
   - Python: `Pandas`, `NumPy`, `SciPy`, `Matplotlib`
-  - Visualization: `Tableau`, `Matplotlib`
+  - BI Visualization: `Tableau`, `Matplotlib`
 - **Techniques Used**:
   - Descriptive statistics
   - Inferential statistics:
